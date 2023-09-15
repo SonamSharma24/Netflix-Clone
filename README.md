@@ -1,23 +1,26 @@
-# Netflix-Clone
+# Netflix clone
 
-#  Home section
-![Screenshot (29)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/78784929-fd54-4963-b9ce-ef7da7ed41c1)
-# feature1
+# Home section
 
-![Screenshot (30)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/de16f23e-fc49-465c-93d9-4a7a06a336da)
+![Screenshot (36)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/455c335e-23de-46ae-9b8f-8361e75aa79a)
+
+# Features 1
+
+![Screenshot (38)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/6d785047-c474-43c0-8667-b488dcc577d2)
+
+# Features 2
+![Screenshot (37)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/ab70a70d-65ad-4b8d-af06-94bc750ee07e)
 
 
-![Screenshot (31)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/99b6eaf5-230b-4dd2-b185-f70e403ac32c)
+ # Features 3
+![Screenshot (43)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/1076ce31-3f4a-43ea-b723-ce53d9992a80)
+
+# Features 4
+![Screenshot (39)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/8123fcd5-b25c-4c51-9cb0-5ba142e55db2)
 
 
-![Screenshot (32)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/6f53daeb-493f-40d4-93b7-586914f63d61)
-
-![Screenshot (33)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/70f4e92a-4e9b-4288-99b5-8cee2a3eb738)
-
-# frequnetly asked question
-
-![Screenshot (34)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/b68d3a3c-583f-43e5-b0cd-740bf09b2a97)
+# Frequnety asked question
+![Screenshot (40)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/7616b8b4-9db4-4e57-a19d-d55d35f9834e)
 
 # footer
-![Screenshot (35)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/0974f1f9-1c32-44f9-bfa3-af3edaa48b32)
-
+![Screenshot (41)](https://github.com/SonamSharma24/Netflix-Clone/assets/143026599/3bae795f-1ab5-47b2-af30-2ee4d17b02a4)
